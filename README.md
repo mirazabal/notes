@@ -17,3 +17,4 @@ Eurecom DNS:
 
 #Low latency
 https://rigtorp.se/low-latency-guide/
+git://git.kernel.org/pub/scm/linux/kernel/git/frederic/dynticks-testing.git
