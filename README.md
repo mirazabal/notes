@@ -16,5 +16,15 @@ Eurecom DNS:
 '
 
 #Low latency
+
 https://rigtorp.se/low-latency-guide/
+
 git://git.kernel.org/pub/scm/linux/kernel/git/frederic/dynticks-testing.git
+
+#Isolcpus
+
+$ e "line start when booting"
+isolcpus
+rcu_nocbs = 4-7
+nohz_full = 4-7
+rcu_nocb_poll
