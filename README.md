@@ -14,3 +14,6 @@ Eurecom DNS:
     secondary_ipv4: "8.8.8.8"
     secondary_ipv6: "2001:4860:4860::8888"
 '
+
+#Low latency
+https://rigtorp.se/low-latency-guide/
